@@ -1,0 +1,21 @@
+div {
+    text-align: center;
+    background-color: rgba(55, 226, 143, 0.747);
+    font-family: "Tahoma", sans-serif;
+}
+
+#pasta {
+    color:red;
+}
+
+#rice {
+    color: green;
+}
+
+#potato {
+    color: yellow;
+}
+
+.ing {
+    color: rgb(230, 108, 51);
+}
